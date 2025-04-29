@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Гостьова книга</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Гостьова книга</h1>
+
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            <ul class="flashes">
+              {% for message in messages %}
+                <li>{{ message }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+
+        <form method="post">
+            <input type="text" name="name" placeholder="Ваше ім'я" required>
+            <textarea name="message" placeholder="Ваше повідомлення" required></textarea>
+            <button type="submit">Залишити запис</button>
+        </form>
+
+        <div class="guest-entries">
+            {% for guest in guests %}
+                <div class="entry">
+                    <p><strong>{{ guest.name }}</strong> <em>({{ guest.timestamp }})</em></p>
+                    <p>{{ guest.message }}</p>
+                </div>
+            {% else %}
+                <p>Поки немає записів.</p>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

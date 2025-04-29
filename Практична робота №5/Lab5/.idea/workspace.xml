@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d1a82e4-fc9e-4bd3-84f3-d9ee62d124b8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vjS7J2dpbnFYCI8PzaWg3368tN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Calendar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConvertTimeFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CurrentTimeByCoordinates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DistanceBetweenCoordinates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DistributionByDate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindWordsRe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FrameDecorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Friday13th.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IpAdressEditing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KaprekarsNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LambdaFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LongFunctionTiming.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PascalsTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PasswordGeneration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TimingDecorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WordsFound.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gcd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.СomparisonHigherOrderFunc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/run/media/mikuarius/DATA/python work/trening-kurs/Lab5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d1a82e4-fc9e-4bd3-84f3-d9ee62d124b8" name="Changes" comment="" />
+      <created>1744656821639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744656821639</updated>
+      <workItem from="1744656822699" duration="5124000" />
+      <workItem from="1744738372920" duration="483000" />
+      <workItem from="1744739554129" duration="8584000" />
+      <workItem from="1744827741172" duration="4998000" />
+      <workItem from="1744834318359" duration="3230000" />
+      <workItem from="1744837624146" duration="26000" />
+      <workItem from="1744837927020" duration="844000" />
+      <workItem from="1745083013638" duration="4389000" />
+      <workItem from="1745093020043" duration="5171000" />
+      <workItem from="1745172467894" duration="2835000" />
+      <workItem from="1745255691323" duration="7156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab5$LambdaFunction.coverage" NAME="LambdaFunction Coverage Results" MODIFIED="1745096257179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task5" />
+    <SUITE FILE_PATH="coverage/Lab5$DistanceBetweenCoordinates.coverage" NAME="DistanceBetweenCoordinates Coverage Results" MODIFIED="1745176850521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task6" />
+    <SUITE FILE_PATH="coverage/Lab5$PascalsTriangle.coverage" NAME="PascalsTriangle Coverage Results" MODIFIED="1744738605122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1" />
+    <SUITE FILE_PATH="coverage/Lab5$FindWordsRe.coverage" NAME="FindWordsRe Coverage Results" MODIFIED="1745262325117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task4" />
+    <SUITE FILE_PATH="coverage/Lab5$KaprekarsNumber.coverage" NAME="KaprekarsNumber Coverage Results" MODIFIED="1745258408472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1" />
+    <SUITE FILE_PATH="coverage/Lab5$TimingDecorator.coverage" NAME="TimingDecorator Coverage Results" MODIFIED="1745096635994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task5" />
+    <SUITE FILE_PATH="coverage/Lab5$Calendar.coverage" NAME="Calendar Coverage Results" MODIFIED="1744829754989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task3" />
+    <SUITE FILE_PATH="coverage/Lab5$omparisonHigherOrderFunc.coverage" NAME="СomparisonHigherOrderFunc Coverage Results" MODIFIED="1745263661447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task6" />
+    <SUITE FILE_PATH="coverage/Lab5$IpAdressEditing.coverage" NAME="IpAdressEditing Coverage Results" MODIFIED="1744838654743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task4" />
+    <SUITE FILE_PATH="coverage/Lab5$gcd.coverage" NAME="gcd Coverage Results" MODIFIED="1744665151660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task1" />
+    <SUITE FILE_PATH="coverage/Lab5$WordsFound.coverage" NAME="WordsFound Coverage Results" MODIFIED="1744837443089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task4" />
+    <SUITE FILE_PATH="coverage/Lab5$PasswordGeneration.coverage" NAME="PasswordGeneration Coverage Results" MODIFIED="1744834999048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task4" />
+    <SUITE FILE_PATH="coverage/Lab5$DistributionByDate.coverage" NAME="DistributionByDate Coverage Results" MODIFIED="1744742539264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2" />
+    <SUITE FILE_PATH="coverage/Lab5$LongFunctionTiming.coverage" NAME="LongFunctionTiming Coverage Results" MODIFIED="1745098020621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task5" />
+    <SUITE FILE_PATH="coverage/Lab5$Friday13th.coverage" NAME="Friday13th Coverage Results" MODIFIED="1744828567215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task3" />
+    <SUITE FILE_PATH="coverage/Lab5$CurrentTimeByCoordinates.coverage" NAME="CurrentTimeByCoordinates Coverage Results" MODIFIED="1744747422279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2" />
+    <SUITE FILE_PATH="coverage/Lab5$ConvertTimeFormat.coverage" NAME="ConvertTimeFormat Coverage Results" MODIFIED="1744745015785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2" />
+    <SUITE FILE_PATH="coverage/Lab5$FrameDecorator.coverage" NAME="FrameDecorator Coverage Results" MODIFIED="1745087301774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task5" />
+  </component>
+</project>
