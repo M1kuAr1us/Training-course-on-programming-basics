@@ -1,0 +1,153 @@
+
+[
+  {
+    "question": "Який результат виконання: len([1, 2, 3])?",
+    "options": ["2", "3", "4", "Error"],
+    "answer": "3"
+  },
+  {
+    "question": "Як створити порожній словник у Python?",
+    "options": ["[]", "()", "{}", "set()"],
+    "answer": "{}"
+  },
+  {
+    "question": "Що таке функція в Python?",
+    "options": ["Клас", "Оператор", "Підпрограма", "Модуль"],
+    "answer": "Підпрограма"
+  },
+  {
+    "question": "Який тип повертає функція input()?",
+    "options": ["int", "str", "float", "bool"],
+    "answer": "str"
+  },
+  {
+    "question": "Що робить оператор // в Python?",
+    "options": ["Модуль", "Піднесення до степеня", "Цілочисельне ділення", "Поділ з залишком"],
+    "answer": "Цілочисельне ділення"
+  },
+  {
+    "question": "Який результат: bool(0)?",
+    "options": ["True", "False", "0", "None"],
+    "answer": "False"
+  },
+  {
+    "question": "Як зчитати всі рядки з файлу?",
+    "options": ["file.read()", "file.readlines()", "file.readline()", "file.write()"],
+    "answer": "file.readlines()"
+  },
+  {
+    "question": "Яке ключове слово використовується для створення класу?",
+    "options": ["function", "class", "define", "module"],
+    "answer": "class"
+  },
+  {
+    "question": "Що таке список (list)?",
+    "options": ["Невпорядкована колекція", "Змінювана впорядкована колекція", "Незмінювана послідовність", "Тип даних для числа"],
+    "answer": "Змінювана впорядкована колекція"
+  },
+  {
+    "question": "Що виведе: type(5.0)?",
+    "options": ["int", "str", "float", "bool"],
+    "answer": "float"
+  },
+  {
+    "question": "Як створити нескінченний цикл?",
+    "options": ["for i in range():", "while True:", "loop forever:", "while(1>2):"],
+    "answer": "while True:"
+  },
+  {
+    "question": "Як вставити елемент у список на певну позицію?",
+    "options": ["insert()", "append()", "extend()", "add()"],
+    "answer": "insert()"
+  },
+  {
+    "question": "Який результат: '7' + '3'?",
+    "options": ["10", "73", "Error", "None"],
+    "answer": "73"
+  },
+  {
+    "question": "Що робить оператор `in`?",
+    "options": ["Повертає True, якщо елемент є в колекції", "Ініціалізує змінну", "Оголошує змінну", "Створює функцію"],
+    "answer": "Повертає True, якщо елемент є в колекції"
+  },
+  {
+    "question": "Що таке змінна?",
+    "options": ["Постійне значення", "Назва для збереження значення", "Файл", "Оператор"],
+    "answer": "Назва для збереження значення"
+  },
+  {
+    "question": "Як згенерувати список з 5 чисел від 0 до 4?",
+    "options": ["range(5)", "range(1,5)", "list(5)", "[0:5]"],
+    "answer": "range(5)"
+  },
+  {
+    "question": "Що виведе: print('hello'.upper())?",
+    "options": ["hello", "HELLO", "Hello", "error"],
+    "answer": "HELLO"
+  },
+  {
+    "question": "Як зловити помилку в Python?",
+    "options": ["try-except", "catch", "on-error", "handle-error"],
+    "answer": "try-except"
+  },
+  {
+    "question": "Яка функція перетворює рядок у число?",
+    "options": ["int()", "str()", "float()", "bool()"],
+    "answer": "int()"
+  },
+  {
+    "question": "Який символ використовується для коментаря?",
+    "options": ["//", "--", "#", "/*"],
+    "answer": "#"
+  },
+  {
+    "question": "Що таке None в Python?",
+    "options": ["Тип помилки", "Значення 'нічого'", "Нуль", "Функція"],
+    "answer": "Значення 'нічого'"
+  },
+  {
+    "question": "Що виведе: print(10 % 3)?",
+    "options": ["1", "3", "0", "10"],
+    "answer": "1"
+  },
+  {
+    "question": "Як викликати функцію?",
+    "options": ["name[]", "name()", "call name", "run name"],
+    "answer": "name()"
+  },
+  {
+    "question": "Що робить функція len()?",
+    "options": ["Обчислює суму", "Повертає довжину", "Виводить список", "Перетворює тип"],
+    "answer": "Повертає довжину"
+  },
+  {
+    "question": "Що таке словник (dict)?",
+    "options": ["Послідовність значень", "Невпорядкована колекція пар ключ-значення", "Файл", "Масив"],
+    "answer": "Невпорядкована колекція пар ключ-значення"
+  },
+  {
+    "question": "Як перевірити тип змінної?",
+    "options": ["type()", "check()", "verify()", "typeof()"],
+    "answer": "type()"
+  },
+  {
+    "question": "Який метод видаляє останній елемент списку?",
+    "options": ["remove()", "del()", "pop()", "cut()"],
+    "answer": "pop()"
+  },
+  {
+    "question": "Що робить оператор `not`?",
+    "options": ["Заперечує логічне значення", "Збільшує число", "Додає рядки", "Пропускає цикл"],
+    "answer": "Заперечує логічне значення"
+  },
+  {
+    "question": "Який з типів є незмінним (immutable)?",
+    "options": ["list", "dict", "set", "tuple"],
+    "answer": "tuple"
+  },
+  {
+    "question": "Що виведе: print(bool(''))?",
+    "options": ["True", "False", "''", "None"],
+    "answer": "False"
+  }
+]
